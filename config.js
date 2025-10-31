@@ -17,10 +17,10 @@ module.exports = {
   nodes: [
      {
       name: "GlaceYT",
-      password: "friston",
-      host: "192.99.10.133",
-      port:  5140,
-      secure: false
+      password: "https://dsc.gg/ajidevserver",
+      host: "lava-v4.ajieblogs.eu.org",
+      port:  443,
+      secure: true
     }
   ]
 }
